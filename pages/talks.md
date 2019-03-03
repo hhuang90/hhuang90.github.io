@@ -12,7 +12,7 @@ permalink: /talks/
 * International Conference of the ERCIM WG on Computational and 2018
 Methodological Statistics, Pisa, Italy. (invited talk).
 
-#### Hierarchical low rank approximation of likelihoods for large spatial datasets
+#### [Hierarchical low rank approximation of likelihoods for large spatial datasets](./HLR)
 * Joint Statistical Meetings, Seattle, U.S. (talk) 2015
 * International Workshop on Climate Informatics, Boulder, U.S. (poster) 2015
 * Spatial Statistics, Avignon, France (poster) 2015
