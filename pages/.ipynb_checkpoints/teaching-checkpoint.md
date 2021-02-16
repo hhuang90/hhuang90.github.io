@@ -17,8 +17,8 @@ above ground biomass in the Bonanza Creek experimental forest.
 #### Undergraduate Climate Extremes workshop, SAMSI, U.S., 2017
 >* Short course: R tutorial
 
-#### Graduate teaching assistant, KAUST, Saudi Arabia., 2016
+#### Graduate teaching assistant, KAUST, Saudi Arabia, 2016
 >* Course: Applied statistics and data analysis 
 
-#### Undergraduate teaching assistant, Fudan University, China., 2012
+#### Undergraduate teaching assistant, Fudan University, China, 2012
 >* Course: Advanced mathematics
