@@ -21,7 +21,7 @@ permalink: /WorkNEducation/
 
 ### Education
 
-**2014-2017**, Ph.D. in Statistics, [King Abdullah University of Science and Technology](https://es.kaust.edu.sa/Pages/Home.aspx), Saudi Arabia 
+**2014-2017**, Ph.D. in Statistics, [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/es/people/person/ying-sun), Saudi Arabia 
 >* Advisor: [Prof. Ying Sun](https://es.kaust.edu.sa/Pages/YingSun.aspx)
 * Thesis: [Computational Methods for Large Spatio-temporal Datasets and Functional Data Ranking](https://repository.kaust.edu.sa/bitstream/handle/10754/625200/Huang-thesis.pdf?sequence=3)
 * Graduated with full GPA 4.0/4.0
