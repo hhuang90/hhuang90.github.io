@@ -9,7 +9,7 @@ layout: home
  
 <br>
 
- I am a postdoctoral fellow at the National Center for Atmospheric Research (NCAR), focusing on statistical computing for climate applications. Having a background in Statistics (Ph.D.) and Mathematics (M.S. & B.S), my research topics include spatio-temporal statistics, functional data analysis, Bayesian modeling, machine learning, and high-performance computing for large datasets. With a special interest in computations, I gained my technical skills in C/C++, R, python, etc., through practical research experience and implementations. I am looking forward to job opportunities where I can apply the quantitative methodology to real-world problems. 
+ I am currently a research scientist at King Abdullah University of Science and Technology, Saudi Arabia. Having a background in Statistics (Ph.D.) and Mathematics (M.S. & B.S), my research topics include spatio-temporal statistics, functional data analysis, Bayesian modeling, machine learning, and high-performance computing for large datasets. With a special interest in computations, I gained my technical skills in C/C++, R, python, etc., through practical research experience and implementations.
 
 [Download My CV](/assets/Huang-CV.pdf)
 
