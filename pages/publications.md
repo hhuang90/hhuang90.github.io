@@ -6,9 +6,17 @@ permalink: /publications/
 
 [Google scholar](https://scholar.google.com/citations?user=8t3uYvIAAAAJ&hl=en)
 
-* **Huang, H.**, Hammerling, D., Li, B., and Smith R. (2019), *Combine multiple interdependent climate models: a Bayesian approach*, in preparation.
+* **Huang, H.**, Castruccio, S., and Genton, M.G.(2021+), *Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks*, under review. [[arXiv](https://arxiv.org/abs/2102.01141)]
 
-* **Huang, H.**, Blake, L., and Hammerling, D. (2019), *Pushing the limit: a hybrid parallel implementation of the multi-resolution approximation for massive data*, submitted.
+* **Huang, H.**, Genton, M.G., and Sun, Y. (2021+), *Visualization of Covariance Structures from Multivariate Spatio-Temporal Random Fields*, under review. [[arXiv](https://arxiv.org/abs/2008.03689)]
+
+* **Huang, H.**, Hammerling, D., Li, B., and Smith R. (2021+), *Combining Multiple Interdependent Climate Models: A Bayesian Approach*, under review. [[arXiv](https://arxiv.org/abs/2001.00074)]
+
+* Salvaña, M.L., Abdulah, S. **Huang, H.**, Ltaief, H., Sun, Y., Genton, M.G., and Keyes, D.E. (2021+), *High Performance Multivariate Geospatial Statistics on Manycore Systems*, IEEE Transactions on Parallel and Distributed Systems, in revision. [[arXiv](https://arxiv.org/abs/2008.07437)]
+
+* Blake, L., **Huang, H.**, Vanderwende, B., and Hammerling, D. (2019), [*A Distributed, Shallow-tree Multi-resolution Approximation for High Performance Computing Systems*](https://opensky.ucar.edu/islandora/object/technotes:579), NCAR Technical Note (NCAR/TN-559+STR).
+
+* **Huang, H.**, Blake, L., and Hammerling, D. (2019), [*Pushing the Limit: A Hybrid Parallel Implementation of the Multi-resolution Approximation for Massive Data*](https://opensky.ucar.edu/islandora/object/technotes:577), NCAR Technical Note (NCAR/TN-558-STR).
 
 * **Huang, H.** and Sun, Y. (2019), [*A Decomposition of Total Variation Depth for Understanding Functional Outliers*](https://www.tandfonline.com/doi/abs/10.1080/00401706.2019.1574241?journalCode=utch20), Technometrics, in press. [[arXiv](https://arxiv.org/abs/1611.04913)]
 
