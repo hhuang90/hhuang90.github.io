@@ -16,8 +16,7 @@
 title: Huang Huang
 phone: +1-919-321-7910
 email: hhuang0402@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-#  I am a postdoctoral fellow at the National Center for Atmospheric Research (NCAR), focusing on statistical computing for climate applications. Having a background in Statistics (Ph.D.) and Mathematics (M.S. & B.S), my research topics include spatio-temporal statistics, functional data analysis, Bayesian modeling, machine learning, and high-performance computing for large datasets. With a special interest in computations, I gained my technical skills in C/C++, R, python, etc., through practical research experience and implementations. I am looking forward to job opportunities where I can apply the quantitative methodology to real-world problems. 
+description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
