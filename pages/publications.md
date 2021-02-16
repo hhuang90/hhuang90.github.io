@@ -14,7 +14,7 @@ permalink: /publications/
 
 * Salvaña, M.L., Abdulah, S. **Huang, H.**, Ltaief, H., Sun, Y., Genton, M.G., and Keyes, D.E. (2021+), *High Performance Multivariate Geospatial Statistics on Manycore Systems*, IEEE Transactions on Parallel and Distributed Systems, in revision. [[arXiv](https://arxiv.org/abs/2008.07437)]
 
-* Blake, L., **Huang, H.**, Vanderwende, B., and Hammerling, D. (2019), [*A Distributed, Shallow-tree Multi-resolution Approximation for High Performance Computing Systems*](https://opensky.ucar.edu/islandora/object/technotes:579), NCAR Technical Note (NCAR/TN-559+STR).
+* Blake, L., **Huang, H.**, Vanderwende, B., and Hammerling, D. (2019), [*A Shallow-Tree Multi-resolution Approximation for Distributed and High-Performance Computing Systems*](https://opensky.ucar.edu/islandora/object/technotes:579), NCAR Technical Note (NCAR/TN-559+STR).
 
 * **Huang, H.**, Blake, L., and Hammerling, D. (2019), [*Pushing the Limit: A Hybrid Parallel Implementation of the Multi-resolution Approximation for Massive Data*](https://opensky.ucar.edu/islandora/object/technotes:577), NCAR Technical Note (NCAR/TN-558-STR).
 

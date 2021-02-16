@@ -6,8 +6,7 @@ permalink: /misc/
 ### Computational skills 
 * C/C++ (proficient)
 * R (proficient)
-* MATLAB (proficient)
-* Python (intermediate)
+* Python (proficient)
 * Linux (intermediate)
 * MPI (intermediate)
 * OpenMP (intermediate)
@@ -21,6 +20,8 @@ permalink: /misc/
 
 ### Peer-review service
 * Biometrics
+* Computational Statistics and Data Analysis
+* Journal of Agricultural, Biological, and Environmental Statistics
 * Journal of Climate
 * Journal of Computational and Graphical Statistics
 * Stat
