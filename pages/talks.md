@@ -3,6 +3,9 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+#### A Hybrid Parallel Framework of the Multi-Resolution Approximation for Massive Spatial Data
+>* SIAM Conference on Computational Science and Engineering, online (invited talk), 2021.
+
 #### Functional data depth and its application in the visualization of spatio-temporal covariance structures
 >* CEMSE Seminar, KAUST (talk), 2020
 

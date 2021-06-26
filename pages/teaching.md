@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+#### International Statistical Institute (ISI) short courses programme, online, 2021
+>* Short course: Large-scale Spatial Data Science
+
 #### AMCS-STAT winter school, King Abdullah University of Science and Technology, Saudi Arabia,	2021
 >* Short course: Large-scale Spatial Data Science
 

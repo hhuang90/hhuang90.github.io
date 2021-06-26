@@ -6,10 +6,12 @@ permalink: /WorkNEducation/
 
 ### Working Experience
 
-**2018-2019**, Research Scientist, [King Abdullah University of Science and Technology](https://stsds.kaust.edu.sa), Saudi Arabia.
->* Research modeling of multivariate spatio-temporal data with large size
+**2019-now**, Research Scientist, [King Abdullah University of Science and Technology](https://stsds.kaust.edu.sa), Saudi Arabia.
+>* Research statistical modeling of multivariate spatio-temporal data with large size
+* Apply machine learning models to environmental data with comparisions to spatio-temporal statistical models
 * Lead reading groups on spatial machine learning
 * Collaborate with computer scientists in developing high-performance packages for large geostatistical inference
+* Mentor students on their internship on research
 
 **2018-2019**, Postdoc Fellow II, Advanced Study Program, [National Center for Atmospheric Research](https://ncar.ucar.edu/), U.S.
 >* Research implementation and optimization of distributed parallel multi-resolution approximation of Gaussian process for large datasets
