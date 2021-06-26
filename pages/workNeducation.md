@@ -8,7 +8,7 @@ permalink: /WorkNEducation/
 
 **2019-now**, Research Scientist, [King Abdullah University of Science and Technology](https://stsds.kaust.edu.sa), Saudi Arabia.
 >* Research statistical modeling of multivariate spatio-temporal data with large size
-* Apply machine learning models to environmental data with comparisions to spatio-temporal statistical models
+* Apply machine learning models to environmental data with comparisons to spatio-temporal statistical models
 * Lead reading groups on spatial machine learning
 * Collaborate with computer scientists in developing high-performance packages for large geostatistical inference
 * Mentor students on their internship on research
