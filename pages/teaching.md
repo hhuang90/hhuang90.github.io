@@ -3,6 +3,12 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+#### International Chinese Statistical Association (ICSA) 2021 Applied Statistics Symposium short courses program, online, 2021
+>* Short course: Large-scale Spatial Data Science
+ 
+#### University of Lausanne-KAUST short course, online, 2021
+>* Short course: Large-scale Spatial Data Science
+
 #### International Statistical Institute (ISI) short courses programme, online, 2021
 >* Short course: Large-scale Spatial Data Science
 

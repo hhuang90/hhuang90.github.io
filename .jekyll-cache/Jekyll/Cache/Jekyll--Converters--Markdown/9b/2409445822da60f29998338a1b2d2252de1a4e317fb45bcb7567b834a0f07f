@@ -1,0 +1,22 @@
+I"¤<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><font size="6"> Data </font></th>
+      <th style="text-align: center"><font size="6"> Likelihood reformulation </font></th>
+      <th style="text-align: center"><font size="6"> Approximated likelihood </font></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="/assets/HLR/allData.png" alt="data" /></td>
+      <td style="text-align: center"><img src="/assets/HLR/likelihood.gif" alt="likelihood" /></td>
+      <td style="text-align: center"><img src="/assets/HLR/HLR.gif" alt="HLR" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="/talks">back</a></p>
+
+:ET

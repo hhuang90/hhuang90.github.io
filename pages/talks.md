@@ -1,10 +1,19 @@
 ---
 layout: page
-title: Talks
+title: Talks & Posters
 permalink: /talks/
 ---
+#### Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks
+>* CEMSE Seminar, KAUST (talk), 2021
+
+#### KAUST Competition on Spatial Statistics for Large Data Sets
+>* Joint Statistical Meetings, online (talk), 2021
+
+#### Covariance function visualization using functional data analysis
+>* International Chinese Statistical Association (ICSA) 2021 Applied Statistics Symposium, online (invited talk), 2021
+
 #### A Hybrid Parallel Framework of the Multi-Resolution Approximation for Massive Spatial Data
->* SIAM Conference on Computational Science and Engineering, online (invited talk), 2021.
+>* SIAM Conference on Computational Science and Engineering, online (invited talk), 2021
 
 #### Functional data depth and its application in the visualization of spatio-temporal covariance structures
 >* CEMSE Seminar, KAUST (talk), 2020

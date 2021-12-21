@@ -6,17 +6,17 @@ permalink: /publications/
 
 [Google scholar](https://scholar.google.com/citations?user=8t3uYvIAAAAJ&hl=en)
 
-* **Huang, H.**, Hammerling, D., Li, B., and Smith R. (2021+), Combining Multiple Interdependent Climate Models: A Bayesian Approach, under review. [[arXiv](https://arxiv.org/abs/2001.00074)]
+* **Huang, H.**, Hammerling, D., Li, B., and Smith R., Combining Multiple Interdependent Climate Models: A Bayesian Approach. [[arXiv](https://arxiv.org/abs/2001.00074)]
 
-* **Huang, H.**, Genton, M.G., and Sun, Y. (2021+), Visualization of Covariance Structures from Multivariate Spatio-Temporal Random Fields, under review. [[arXiv](https://arxiv.org/abs/2008.03689)]
+* **Huang, H.**, Genton, M.G., and Sun, Y. (2021+), Visualization of Covariance Structures from Multivariate Spatio-Temporal Random Fields, in revision. [[arXiv](https://arxiv.org/abs/2008.03689)]
 
-* **Huang, H.**, Castruccio, S., and Genton, M.G.(2021+), Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks, *Journal of the Royal Statistical Society Series C (Applied Statistics)*, in revision. [[arXiv](https://arxiv.org/abs/2102.01141)]
+* **Huang, H.**, Castruccio, S., and Genton, M.G.(2021+), Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks, *Journal of the Royal Statistical Society Series C (Applied Statistics)*, to appear. [[arXiv](https://arxiv.org/abs/2102.01141)]
 
-* **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), Competition on spatial statistics for large datasets (with discussion), *Journal of Agricultural, Biological, and Environmental Statistics*, to appear. [[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
+* **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics*, 26 (4), 580-595. [[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
 
 * Blake, L., **Huang H.**, Vanderwende B., Hammerling D. (2021), [The Deep-Tree Approach: An Improved Parallel Matlab Implementation of the Multi-resolution Approximation for Massive Spatial Data on High-Performance Computing Systems](https://opensky.ucar.edu/islandora/object/technotes%3A586), *NCAR Technical Note* (NCAR/TN-565-STR).
 
-* Salvana, M. L., Abdulah, S., **Huang, H.**, Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2021), High performance multivariate geospatial statistics on manycore systems, *IEEE Transactions on Parallel and Distributed Systems 32*, 2719-2733. [[arXiv](https://arxiv.org/abs/2008.07437)]
+* Salvana, M. L., Abdulah, S., **Huang, H.**, Ltaief, H., Sun, Y., Genton, M. G., and Keyes, D. E. (2021), [High performance multivariate geospatial statistics on manycore systems](https://ieeexplore.ieee.org/abstract/document/9397281/), *IEEE Transactions on Parallel and Distributed Systems 32*, 2719-2733. [[arXiv](https://arxiv.org/abs/2008.07437)]
 
 * Blake, L., **Huang, H.**, Vanderwende, B., and Hammerling, D. (2019), [A Shallow-Tree Multi-resolution Approximation for Distributed and High-Performance Computing Systems](https://opensky.ucar.edu/islandora/object/technotes:579), *NCAR Technical Note* (NCAR/TN-559+STR).
 
