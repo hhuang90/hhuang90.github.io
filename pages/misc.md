@@ -27,12 +27,16 @@ permalink: /misc/
 * Supervise one Ph.D. student from School of Mines, Colorado, for his summer research on distributed geostatistical modeling, 2019
 
 ### Peer-review service
-* Biometrics
-* Computational Statistics and Data Analysis
-* Journal of Agricultural, Biological, and Environmental Statistics
-* Journal of Climate
-* Journal of Computational and Graphical Statistics
-* Stat
-* Statistics and Computing
-* Stochastic Environmental Research and Risk Assessment
-* 4th International Conference on Big Data and Information Analytics
+* 应用概率统计 (1)
+* Annals of Applied Statistics (1)
+* Biometrics (1)
+* Climate Dynamics (1)
+* Computational Statistics and Data Analysis (1)
+* Journal of Agricultural, Biological, and Environmental Statistics (1)
+* Journal of Climate (2)
+* Journal of Computational and Graphical Statistics (1)
+* Journal of the Royal Statistical Society Series C (1)
+* Stat (1)
+* Statistics and Computing (1)
+* Stochastic Environmental Research and Risk Assessment (1)
+* 4th International Conference on Big Data and Information Analytics (4)

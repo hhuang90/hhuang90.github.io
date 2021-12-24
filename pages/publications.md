@@ -8,9 +8,13 @@ permalink: /publications/
 
 * **Huang, H.**, Hammerling, D., Li, B., and Smith R., Combining Multiple Interdependent Climate Models: A Bayesian Approach. [[arXiv](https://arxiv.org/abs/2001.00074)]
 
-* **Huang, H.**, Genton, M.G., and Sun, Y. (2021+), Visualization of Covariance Structures from Multivariate Spatio-Temporal Random Fields, in revision. [[arXiv](https://arxiv.org/abs/2008.03689)]
+* **Huang, H.**, Blake, L. R., Katzfuss, M., Hammerling, D. M. (2022+) Nonstationary Spatial Modeling of Massive Global Satellite Data, under review. [[arXiv](https://arxiv.org/abs/2111.13428)]
 
-* **Huang, H.**, Castruccio, S., and Genton, M.G.(2021+), Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks, *Journal of the Royal Statistical Society Series C (Applied Statistics)*, to appear. [[arXiv](https://arxiv.org/abs/2102.01141)]
+* **Huang, H.**, Castruccio, S., Baker, A. H., and Genton M. G. (2022+) When are stochastic approximations of climate models useful?, under review.
+
+* **Huang, H.**, Genton, M. G., and Sun, Y. (2022+), Visualization of Covariance Structures from Multivariate Spatio-Temporal Random Fields, in revision. [[arXiv](https://arxiv.org/abs/2008.03689)]
+
+* **Huang, H.**, Castruccio, S., and Genton, M. G.(2022), Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks, *Journal of the Royal Statistical Society Series C (Applied Statistics)*, to appear. [[arXiv](https://arxiv.org/abs/2102.01141)]
 
 * **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics*, 26 (4), 580-595. [[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
 
