@@ -9,7 +9,7 @@ layout: home
  
 <br>
 
-I am currently a research scientist at King Abdullah University of Science and Technology, Saudi Arabia. Having a background in Statistics (Ph.D.) and Mathematics (M.S. & B.S), my research topics include spatio-temporal statistics, functional data analysis, Bayesian modeling, machine learning, and high-performance computing for large datasets. With a special interest in computations, I gained my technical skills in C/C++, python, R, etc., through practical research experience and implementations. I am also enthusiastic about exploring state-of-the-art methods in other quantitative fields.
+I am currently a Quantitative Researcher & Developer at Abu Dhabi Investment Authority (ADIA), UAE. Before moving to industry, I was a Research Scientist at King Abdullah University of Science and Technology, Saudi Arabia, for more than two years. Having a background in Statistics (Ph.D.) and Mathematics (M.S. & B.S), my research topics include spatio-temporal statistics, functional data analysis, Bayesian modeling, machine learning, and high-performance computing for large datasets. With a special interest in computations, I gained my technical skills in C/C++, Python, R, etc., through practical research experience and implementations. I am also enthusiastic about exploring state-of-the-art methods in other quantitative fields.
 
 [Download My CV](/assets/Huang-CV.pdf)
 
