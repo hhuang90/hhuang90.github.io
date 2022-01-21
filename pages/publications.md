@@ -16,7 +16,7 @@ permalink: /publications/
 
 * **Huang, H.**, Castruccio, S., and Genton, M. G.(2022), Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks, *Journal of the Royal Statistical Society Series C (Applied Statistics)*, to appear. [[arXiv](https://arxiv.org/abs/2102.01141)]
 
-* **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics*, 26 (4), 580-595. [[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
+* **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics*, 26 (4), 580-595. [[<span style="color:red">KAUST Discovery Highlight</span>](https://discovery.kaust.edu.sa/en/article/1206/competition-sheds-light-on-approximation-methods-for-large-spatial-datasets)][[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
 
 * Blake, L., **Huang H.**, Vanderwende B., Hammerling D. (2021), [The Deep-Tree Approach: An Improved Parallel Matlab Implementation of the Multi-resolution Approximation for Massive Spatial Data on High-Performance Computing Systems](https://opensky.ucar.edu/islandora/object/technotes%3A586), *NCAR Technical Note* (NCAR/TN-565-STR).
 
