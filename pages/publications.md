@@ -10,11 +10,11 @@ permalink: /publications/
 
 * **Huang, H.**, Blake, L. R., Katzfuss, M., Hammerling, D. M. (2023+) Nonstationary Spatial Modeling of Massive Global Satellite Data, under review. [[arXiv](https://arxiv.org/abs/2111.13428)]
 
-* **Huang, H.**, Genton, M. G., and Sun, Y. (2023+), Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields, *Journal of Computational and Graphical Statistics*, in revision. [[arXiv](https://arxiv.org/abs/2008.03689)]
+* **Huang, H.**, Genton, M. G., and Sun, Y. (2023), Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields, *Journal of Computational and Graphical Statistics*, to appear. [[arXiv](https://arxiv.org/abs/2008.03689)]
 
 * **Huang, H.**, Castruccio, S., Baker, A. H., and Genton M. G. (2023) Saving storage in climate ensembles: A model-based stochastic approach (with discussion), *Journal of Agricultural, Biological, and Environmental Statistics*, to appear.
 
-* **Huang, H.**, Castruccio, S., and Genton, M. G.(2023), Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks, *Journal of the Royal Statistical Society Series C (Applied Statistics)*, to appear. [[arXiv](https://arxiv.org/abs/2102.01141)]
+* **Huang, H.**, Castruccio, S., and Genton, M. G.(2022), [Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks](https://academic.oup.com/jrsssc/article/71/2/449/7033948), *Journal of the Royal Statistical Society Series C (Applied Statistics)*. [[arXiv](https://arxiv.org/abs/2102.01141)]
 
 * **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics*, 26 (4), 580-595. [[<span style="color:red">KAUST Discovery Highlight</span>](https://discovery.kaust.edu.sa/en/article/1206/competition-sheds-light-on-approximation-methods-for-large-spatial-datasets)][[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
 
