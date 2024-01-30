@@ -39,4 +39,5 @@ permalink: /misc/
 * Stat (1)
 * Statistics and Computing (1)
 * Stochastic Environmental Research and Risk Assessment (1)
+* Technometrics (1)
 * 4th International Conference on Big Data and Information Analytics (4)
