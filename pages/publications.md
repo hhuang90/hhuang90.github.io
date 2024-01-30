@@ -8,15 +8,15 @@ permalink: /publications/
 
 * **Huang, H.**, Hammerling, D., Li, B., and Smith R., Combining Multiple Interdependent Climate Models: A Bayesian Approach. [[arXiv](https://arxiv.org/abs/2001.00074)]
 
-* **Huang, H.**, Blake, L. R., Katzfuss, M., Hammerling, D. M. (2023+) Nonstationary Spatial Modeling of Massive Global Satellite Data, under review. [[arXiv](https://arxiv.org/abs/2111.13428)]
+* **Huang, H.**, Blake, L. R., Katzfuss, M., Hammerling, D. M. (2024+) Nonstationary Spatial Modeling of Massive Global Satellite Data, under review. [[arXiv](https://arxiv.org/abs/2111.13428)]
 
-* **Huang, H.**, Genton, M. G., and Sun, Y. (2023), Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields, *Journal of Computational and Graphical Statistics*, to appear. [[arXiv](https://arxiv.org/abs/2008.03689)]
+* **Huang, H.**, Genton, M. G., and Sun, Y. (2023), [Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2191667), *Journal of Computational and Graphical Statistics 32*(4), 1545-1555. [[arXiv](https://arxiv.org/abs/2008.03689)]
 
-* **Huang, H.**, Castruccio, S., Baker, A. H., and Genton M. G. (2023) Saving storage in climate ensembles: A model-based stochastic approach (with discussion), *Journal of Agricultural, Biological, and Environmental Statistics*, to appear.
+* **Huang, H.**, Castruccio, S., Baker, A. H., and Genton M. G. (2023) [Saving storage in climate ensembles: A model-based stochastic approach (with discussion)](https://link.springer.com/article/10.1007/s13253-022-00518-x), *Journal of Agricultural, Biological, and Environmental Statistics 28*(2), 324-344.
 
-* **Huang, H.**, Castruccio, S., and Genton, M. G.(2022), [Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks](https://academic.oup.com/jrsssc/article/71/2/449/7033948), *Journal of the Royal Statistical Society Series C (Applied Statistics)*. [[arXiv](https://arxiv.org/abs/2102.01141)]
+* **Huang, H.**, Castruccio, S., and Genton, M. G.(2022), [Forecasting High-Frequency Spatio-Temporal Wind Power with Dimensionally Reduced Echo State Networks](https://academic.oup.com/jrsssc/article/71/2/449/7033948), *Journal of the Royal Statistical Society Series C (Applied Statistics) 71*(2), 449-466. [[arXiv](https://arxiv.org/abs/2102.01141)]
 
-* **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics*, 26 (4), 580-595. [[<span style="color:red">KAUST Discovery Highlight</span>](https://discovery.kaust.edu.sa/en/article/1206/competition-sheds-light-on-approximation-methods-for-large-spatial-datasets)][[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
+* **Huang, H.**, Abdulah, S., Sun, Y., Ltaief, H., Keyes, D. E., and Genton, M. G. (2021), [Competition on spatial statistics for large datasets (with discussion)](https://link.springer.com/article/10.1007/s13253-021-00457-z), *Journal of Agricultural, Biological, and Environmental Statistics 26*(4), 580-595. [[<span style="color:red">KAUST Discovery Highlight</span>](https://discovery.kaust.edu.sa/en/article/1206/competition-sheds-light-on-approximation-methods-for-large-spatial-datasets)][[More info about the competition](https://cemse.kaust.edu.sa/stsds/2021-kaust-competition-spatial-statistics-large-datasets)]
 
 * Blake, L., **Huang H.**, Vanderwende B., Hammerling D. (2021), [The Deep-Tree Approach: An Improved Parallel Matlab Implementation of the Multi-resolution Approximation for Massive Spatial Data on High-Performance Computing Systems](https://opensky.ucar.edu/islandora/object/technotes%3A586), *NCAR Technical Note* (NCAR/TN-565-STR).
 
