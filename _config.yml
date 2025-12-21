@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Huang Huang
-phone: +1-919-321-7910
+phone: +971-505427209
 email: hhuang0402@gmail.com
 description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog

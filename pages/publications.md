@@ -8,7 +8,7 @@ permalink: /publications/
 
 * **Huang, H.**, Hammerling, D., Li, B., and Smith R., Combining Multiple Interdependent Climate Models: A Bayesian Approach. [[arXiv](https://arxiv.org/abs/2001.00074)]
 
-* **Huang, H.**, Blake, L. R., Katzfuss, M., Hammerling, D. M. (2024+) Nonstationary Spatial Modeling of Massive Global Satellite Data, under review. [[arXiv](https://arxiv.org/abs/2111.13428)]
+* **Huang, H.**, Blake, L. R., Katzfuss, M., Hammerling, D. M. (2025) Nonstationary Spatial Modeling of Massive Global Satellite Data, *Journal of Computational and Graphical Statistics 34*(4), 1226-1239. [[arXiv](https://arxiv.org/abs/2111.13428)]
 
 * **Huang, H.**, Genton, M. G., and Sun, Y. (2023), [Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2191667), *Journal of Computational and Graphical Statistics 32*(4), 1545-1555. [[arXiv](https://arxiv.org/abs/2008.03689)]
 
